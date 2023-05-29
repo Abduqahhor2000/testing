@@ -6,4 +6,4 @@ salom = "salom qaley"
 
 // let dfsd = confirm("Are you sure")
 
-let dsfsdf = prompt("savol", "Are")
+let dsfsdf = prompt("savol", "Are") 
